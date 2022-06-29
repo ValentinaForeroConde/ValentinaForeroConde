@@ -2,7 +2,7 @@
 </br></br>
 
 ## Hi, I'm Valentina Forero 🌸
-Self-taught developer and passionate about frontend, learning more and more amazing tools!
+Self-taught software developer and passionate about frontend, learning more and more amazing tools!
 * 📍 Colombia
 * ✉️ You can contact me at [valeforero98@gmail.com](mailto:valeforero98@gmail.com)
 
