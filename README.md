@@ -1,24 +1,25 @@
-<table>
-<tr>
-<td width="280px" align="center">
+<div align="center">
+  <img
+    src="https://github.com/ValentinaForeroConde/ValentinaForeroConde/blob/main/pic.png"
+    width="240px"
+    alt="Valentina Forero Avatar"
+  />
+</div>
 
-<img src="https://github.com/ValentinaForeroConde/ValentinaForeroConde/blob/main/pic.png" width="240px" />
+<br />
 
-</td>
-<td>
+<h2 align="center">Hi, I'm Valentina Forero 🌸</h2>
 
-## Hi, I'm Valentina Forero 🌸
-
-Frontend-focused Software Developer with a passion for building clean, intuitive, and scalable web experiences.  
+<p align="center">
+Frontend-focused Software Developer with a passion for building clean, intuitive, and scalable web experiences.<br />
 I enjoy learning new tools, refining UI/UX details, and turning ideas into products that feel good to use.
+</p>
 
-- 📍 Based in Colombia  
-- 🌍 Portfolio: [https://www.valeforero.com](https://www.valeforero.com)  
-- ✉️ Contact: [valeforero98@gmail.com](mailto:valeforero98@gmail.com)
-
-</td>
-</tr>
-</table>
+<p align="center">
+📍 Based in Colombia &nbsp;•&nbsp;
+🌍 <a href="https://www.valeforero.com">Portfolio</a> &nbsp;•&nbsp;
+✉️ <a href="mailto:valeforero98@gmail.com">valeforero98@gmail.com</a>
+</p>
 
 ---
 
