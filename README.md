@@ -16,12 +16,16 @@ I enjoy learning new tools, refining UI/UX details, and turning ideas into produ
 </p>
 
 <p align="center">
-📍 Based in Colombia &nbsp;•&nbsp;
-🌍 <a href="https://www.valeforero.com">Portfolio</a> &nbsp;•&nbsp;
-✉️ <a href="mailto:valeforero98@gmail.com">valeforero98@gmail.com</a>
+📍 Based in Colombia
 </p>
 
----
+<p align="center">
+🌍 <a href="https://www.valeforero.com">Portfolio</a>
+</p>
+
+<p align="center">
+✉️ <a href="mailto:valeforero98@gmail.com">valeforero98@gmail.com</a>
+</p>
 
 ## Tech Stack & Skills ⚙️
 
@@ -61,8 +65,6 @@ I enjoy learning new tools, refining UI/UX details, and turning ideas into produ
   </a>
 </p>
 
----
-
 ## Connect with me 💜
 
 <p align="center">
@@ -75,29 +77,4 @@ I enjoy learning new tools, refining UI/UX details, and turning ideas into produ
   <a href="https://www.twitter.com/valefoCode">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="34" height="34" />
   </a>
-</p>
-
----
-
-## GitHub Stats 📊
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ValentinaForeroConde&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinaForeroConde&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaForeroConde&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
 </p>
